@@ -1,0 +1,8 @@
+{
+   "name": "Focus Markdown",
+   "main": "./app/html/index.html",
+   "window": {
+      "toolbar": false,
+      "min_width": "862px"
+   }
+}

@@ -1,4 +1,6 @@
-markdown
-========
+Focus Markdown
+==============
 
-markdown editor
+A distraction free markdown editor.
+
+Made with node-webkit.
